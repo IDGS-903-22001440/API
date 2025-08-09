@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using ProyectoFinal.Dto;
 using RestSharp;
 using System.IdentityModel.Tokens.Jwt;
 using System.Net;
@@ -400,6 +401,75 @@ namespace AuthAPI.Controllers
 
             return Ok(userDetails);
         }
+
+
+        // PUT: api/account/{id}
+        [HttpPut("{id}")]
+        public async Task<IActionResult> EditUser(string id, [FromBody] EditUserDto dto)
+        {
+            var user = await _userManager.FindByIdAsync(id);
+            if (user == null)
+            {
+                return NotFound(new AuthResponseDto { IsSuccess = false, Message = "User not found" });
+            }
+
+            user.FullName = dto.FullName;
+            user.Email = dto.Email;
+            user.UserName = dto.Email;
+
+            var result = await _userManager.UpdateAsync(user);
+            if (!result.Succeeded)
+            {
+                return BadRequest(new AuthResponseDto
+                {
+                    IsSuccess = false,
+                    Message = result.Errors.FirstOrDefault()?.Description ?? "Update failed"
+                });
+            }
+
+            return Ok(new AuthResponseDto
+            {
+                IsSuccess = true,
+                Message = "User updated successfully"
+            });
+        }
+
+
+        // DELETE: api/account/{id}
+        [HttpDelete("{id}")]
+        [Authorize(Roles = "Admin")] // Protegido, opcional
+        public async Task<IActionResult> DeleteUser(string id)
+        {
+            var user = await _userManager.FindByIdAsync(id);
+            if (user == null)
+            {
+                return NotFound(new AuthResponseDto { IsSuccess = false, Message = "User not found" });
+            }
+
+            var result = await _userManager.DeleteAsync(user);
+
+            if (!result.Succeeded)
+            {
+                return BadRequest(new AuthResponseDto
+                {
+                    IsSuccess = false,
+                    Message = result.Errors.FirstOrDefault()?.Description ?? "Deletion failed"
+                });
+            }
+
+            return Ok(new AuthResponseDto
+            {
+                IsSuccess = true,
+                Message = "User deleted successfully"
+            });
+        }
+
+
+
+
+
     }
+
+
 }
 

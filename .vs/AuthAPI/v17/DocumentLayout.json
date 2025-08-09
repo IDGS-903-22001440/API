@@ -1,86 +1,194 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|c:\\users\\ianaq\\source\\repos\\authapi\\authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|c:\\users\\ianaq\\source\\repos\\authapi\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\controllers\\comprasproveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\controllers\\comprasproveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|c:\\users\\ianaq\\source\\repos\\authapi\\authapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250809180929_PVenta2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthAPI\\Migrations\\20250809180929_PVenta2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|c:\\users\\ianaq\\source\\repos\\authapi\\authapi\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|c:\\users\\ianaq\\source\\repos\\authapi\\authapi\\dto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250809180526_PVenta2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthAPI\\Migrations\\20250809180526_PVenta2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|c:\\users\\ianaq\\source\\repos\\authapi\\authapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|c:\\users\\ianaq\\source\\repos\\authapi\\authapi\\dto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250808235650_PVenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthAPI\\Migrations\\20250808235650_PVenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|c:\\users\\ianaq\\source\\repos\\authapi\\authapi\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\models\\detallecompraproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\models\\detallecompraproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|c:\\users\\ianaq\\source\\repos\\authapi\\authapi\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\models\\compraprovedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\models\\compraprovedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|c:\\users\\ianaq\\source\\repos\\authapi\\authapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|c:\\users\\ianaq\\source\\repos\\authapi\\authapi\\dto\\roleassigndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dto\\roleassigndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|c:\\users\\ianaq\\source\\repos\\authapi\\authapi\\dto\\roleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dto\\roleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|c:\\users\\ianaq\\source\\repos\\authapi\\authapi\\dto\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dto\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\dto\\edituserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\dto\\edituserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|c:\\users\\ianaq\\source\\repos\\authapi\\authapi\\dto\\userdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dto\\userdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250808014127_Comentarios2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthAPI\\Migrations\\20250808014127_Comentarios2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|c:\\users\\ianaq\\source\\repos\\authapi\\authapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250808013642_Comentarios2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthAPI\\Migrations\\20250808013642_Comentarios2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|c:\\users\\ianaq\\source\\repos\\authapi\\authapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\controllers\\comentarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\controllers\\comentarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|c:\\users\\ianaq\\source\\repos\\authapi\\authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\models\\comentarioproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\models\\comentarioproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|c:\\users\\ianaq\\source\\repos\\authapi\\authapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\models\\comentariovote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\models\\comentariovote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|c:\\users\\ianaq\\source\\repos\\authapi\\authapi\\migrations\\20250730013817_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\migrations\\20250730013817_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\controllers\\comentariovotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\controllers\\comentariovotescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|c:\\users\\ianaq\\source\\repos\\authapi\\authapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\dto\\crearcomentariovotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\dto\\crearcomentariovotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250808000713_Comentarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthAPI\\Migrations\\20250808000713_Comentarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\models\\saledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\models\\saledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\dto\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\dto\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\dto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\dto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\dto\\crearcomentariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\dto\\crearcomentariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\dto\\userdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\dto\\userdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\dto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\dto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\dto\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\dto\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\dto\\roleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\dto\\roleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\dto\\roleassigndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\dto\\roleassigndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\migrations\\20250730013817_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\migrations\\20250730013817_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\migrations\\20250805160117_prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\migrations\\20250805160117_prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|c:\\users\\ianaq\\source\\repos\\proyectofinal\\authapi\\migrations\\20250805062434_proyectofinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC296BE6-75DA-4241-BA7F-01A2B44B1C2F}|AuthAPI\\ProyectoFinal.csproj|solutionrelative:authapi\\migrations\\20250805062434_proyectofinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,131 +198,456 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TokenDto.cs",
-              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\TokenDto.cs",
-              "RelativeDocumentMoniker": "AuthAPI\\Dto\\TokenDto.cs",
-              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\TokenDto.cs",
-              "RelativeToolTip": "AuthAPI\\Dto\\TokenDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "20250809180929_PVenta2.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250809180929_PVenta2.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Migrations\\20250809180929_PVenta2.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250809180929_PVenta2.cs",
+              "RelativeToolTip": "AuthAPI\\Migrations\\20250809180929_PVenta2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T23:03:58.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ChangePasswordDto.cs",
-              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\ChangePasswordDto.cs",
-              "RelativeDocumentMoniker": "AuthAPI\\Dto\\ChangePasswordDto.cs",
-              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\ChangePasswordDto.cs",
-              "RelativeToolTip": "AuthAPI\\Dto\\ChangePasswordDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T22:13:46.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ResetPasswordDto.cs",
-              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\ResetPasswordDto.cs",
-              "RelativeDocumentMoniker": "AuthAPI\\Dto\\ResetPasswordDto.cs",
-              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\ResetPasswordDto.cs",
-              "RelativeToolTip": "AuthAPI\\Dto\\ResetPasswordDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T19:46:54.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Program.cs",
-              "RelativeDocumentMoniker": "AuthAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Program.cs",
-              "RelativeToolTip": "AuthAPI\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T01:25:38.153Z",
+              "WhenOpened": "2025-08-09T18:09:29.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AuthResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\AuthResponseDto.cs",
-              "RelativeDocumentMoniker": "AuthAPI\\Dto\\AuthResponseDto.cs",
-              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\AuthResponseDto.cs",
-              "RelativeToolTip": "AuthAPI\\Dto\\AuthResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Title": "20250809180526_PVenta2.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250809180526_PVenta2.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Migrations\\20250809180526_PVenta2.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250809180526_PVenta2.cs",
+              "RelativeToolTip": "AuthAPI\\Migrations\\20250809180526_PVenta2.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T02:01:53.467Z",
+              "WhenOpened": "2025-08-09T18:05:26.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "20250808235650_PVenta.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250808235650_PVenta.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Migrations\\20250808235650_PVenta.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250808235650_PVenta.cs",
+              "RelativeToolTip": "AuthAPI\\Migrations\\20250808235650_PVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:56:50.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComprasProveedorController.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Controllers\\ComprasProveedorController.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Controllers\\ComprasProveedorController.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Controllers\\ComprasProveedorController.cs",
+              "RelativeToolTip": "AuthAPI\\Controllers\\ComprasProveedorController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:54:56.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "AuthAPI\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T04:42:01.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetalleCompraProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\Source\\Repos\\ProyectoFinal\\AuthAPI\\Models\\DetalleCompraProveedor.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\DetalleCompraProveedor.cs",
+              "ToolTip": "C:\\Users\\ianaq\\Source\\Repos\\ProyectoFinal\\AuthAPI\\Models\\DetalleCompraProveedor.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\DetalleCompraProveedor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:31:34.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AuthAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T01:23:40.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompraProvedor.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Models\\CompraProvedor.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\CompraProvedor.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Models\\CompraProvedor.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\CompraProvedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:20:43.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "AuthAPI\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Controllers\\AccountController.cs",
               "RelativeToolTip": "AuthAPI\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAuwJcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAJcBAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-30T01:44:23.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "AuthAPI\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Models\\AppUser.cs",
-              "RelativeToolTip": "AuthAPI\\Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "EditUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\EditUserDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dto\\EditUserDto.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\EditUserDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dto\\EditUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T01:22:57.8Z",
+              "WhenOpened": "2025-08-08T05:25:24.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "AuthAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\appsettings.json",
-              "RelativeToolTip": "AuthAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-30T01:27:38.568Z",
+              "DocumentIndex": 13,
+              "Title": "20250808014127_Comentarios2.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250808014127_Comentarios2.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Migrations\\20250808014127_Comentarios2.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250808014127_Comentarios2.cs",
+              "RelativeToolTip": "AuthAPI\\Migrations\\20250808014127_Comentarios2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T01:41:27.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProveedoresController.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Controllers\\ProveedoresController.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Controllers\\ProveedoresController.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Controllers\\ProveedoresController.cs",
+              "RelativeToolTip": "AuthAPI\\Controllers\\ProveedoresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:45:59.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "RolesController.cs",
-              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Controllers\\RolesController.cs",
-              "RelativeDocumentMoniker": "AuthAPI\\Controllers\\RolesController.cs",
-              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Controllers\\RolesController.cs",
-              "RelativeToolTip": "AuthAPI\\Controllers\\RolesController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAuwFUAAAANAAAAAAAAAA==",
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Models\\Proveedor.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T01:48:12.231Z"
+              "WhenOpened": "2025-08-05T05:35:13.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Models\\Producto.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\Producto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T03:52:05.869Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "20250808013642_Comentarios2.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250808013642_Comentarios2.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Migrations\\20250808013642_Comentarios2.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250808013642_Comentarios2.cs",
+              "RelativeToolTip": "AuthAPI\\Migrations\\20250808013642_Comentarios2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T01:36:42.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ComentarioVote.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Models\\ComentarioVote.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\ComentarioVote.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Models\\ComentarioVote.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\ComentarioVote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T23:35:30.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ComentarioVotesController.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Controllers\\ComentarioVotesController.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Controllers\\ComentarioVotesController.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Controllers\\ComentarioVotesController.cs",
+              "RelativeToolTip": "AuthAPI\\Controllers\\ComentarioVotesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T00:14:33.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CrearComentarioVoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\CrearComentarioVoteDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dto\\CrearComentarioVoteDto.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\CrearComentarioVoteDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dto\\CrearComentarioVoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T00:13:42.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ComentarioProducto.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Models\\ComentarioProducto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\ComentarioProducto.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Models\\ComentarioProducto.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\ComentarioProducto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T06:04:54.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ComentariosController.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Controllers\\ComentariosController.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Controllers\\ComentariosController.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Controllers\\ComentariosController.cs",
+              "RelativeToolTip": "AuthAPI\\Controllers\\ComentariosController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T06:10:34.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250808000713_Comentarios.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250808000713_Comentarios.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Migrations\\20250808000713_Comentarios.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250808000713_Comentarios.cs",
+              "RelativeToolTip": "AuthAPI\\Migrations\\20250808000713_Comentarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T00:07:13.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Models\\AppUser.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T01:22:57.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SaleDetail.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Models\\SaleDetail.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\SaleDetail.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Models\\SaleDetail.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\SaleDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T04:37:57.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Program.cs",
+              "RelativeToolTip": "AuthAPI\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T01:25:38.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SaleDto.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\SaleDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dto\\SaleDto.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\SaleDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dto\\SaleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:03:05.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250805160117_Prueba.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250805160117_Prueba.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Migrations\\20250805160117_Prueba.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250805160117_Prueba.cs",
+              "RelativeToolTip": "AuthAPI\\Migrations\\20250805160117_Prueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:01:17.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\appsettings.json",
+              "RelativeToolTip": "AuthAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T01:27:38.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Models\\Categoria.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:35:33.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dto\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\AuthResponseDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dto\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:01:53.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250805062434_ProyectoFinal.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250805062434_ProyectoFinal.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Migrations\\20250805062434_ProyectoFinal.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250805062434_ProyectoFinal.cs",
+              "RelativeToolTip": "AuthAPI\\Migrations\\20250805062434_ProyectoFinal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T06:24:34.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CrearComentarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\CrearComentarioDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dto\\CrearComentarioDto.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\CrearComentarioDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dto\\CrearComentarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T06:11:44.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Models\\Sale.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T04:36:11.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dto\\ResetPasswordDto.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\ResetPasswordDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dto\\ResetPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:46:54.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dto\\ChangePasswordDto.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\ChangePasswordDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dto\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:13:46.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\UserDetailDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dto\\UserDetailDto.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\UserDetailDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dto\\UserDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:15:12.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\RegisterDto.cs",
               "RelativeDocumentMoniker": "AuthAPI\\Dto\\RegisterDto.cs",
-              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\RegisterDto.cs",
               "RelativeToolTip": "AuthAPI\\Dto\\RegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -222,23 +655,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserDetailDto.cs",
-              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\UserDetailDto.cs",
-              "RelativeDocumentMoniker": "AuthAPI\\Dto\\UserDetailDto.cs",
-              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\UserDetailDto.cs",
-              "RelativeToolTip": "AuthAPI\\Dto\\UserDetailDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 33,
+              "Title": "TokenDto.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\TokenDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dto\\TokenDto.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\TokenDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dto\\TokenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T02:15:12.205Z"
+              "WhenOpened": "2025-08-03T23:03:58.78Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 32,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "AuthAPI\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T03:52:03.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "AuthAPI\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwFUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T01:48:12.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "ForgotPasswordDto.cs",
-              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\ForgotPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\ForgotPasswordDto.cs",
               "RelativeDocumentMoniker": "AuthAPI\\Dto\\ForgotPasswordDto.cs",
-              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\ForgotPasswordDto.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\ForgotPasswordDto.cs",
               "RelativeToolTip": "AuthAPI\\Dto\\ForgotPasswordDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -246,11 +703,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 38,
               "Title": "CreateRoleDto.cs",
-              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\CreateRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\CreateRoleDto.cs",
               "RelativeDocumentMoniker": "AuthAPI\\Dto\\CreateRoleDto.cs",
-              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\CreateRoleDto.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\CreateRoleDto.cs",
               "RelativeToolTip": "AuthAPI\\Dto\\CreateRoleDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -258,11 +715,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 39,
               "Title": "RoleResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\RoleResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\RoleResponseDto.cs",
               "RelativeDocumentMoniker": "AuthAPI\\Dto\\RoleResponseDto.cs",
-              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\RoleResponseDto.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\RoleResponseDto.cs",
               "RelativeToolTip": "AuthAPI\\Dto\\RoleResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -270,11 +727,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 40,
               "Title": "RoleAssignDto.cs",
-              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\RoleAssignDto.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\RoleAssignDto.cs",
               "RelativeDocumentMoniker": "AuthAPI\\Dto\\RoleAssignDto.cs",
-              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\RoleAssignDto.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\RoleAssignDto.cs",
               "RelativeToolTip": "AuthAPI\\Dto\\RoleAssignDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -282,11 +739,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 41,
               "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\LoginDto.cs",
               "RelativeDocumentMoniker": "AuthAPI\\Dto\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Dto\\LoginDto.cs",
               "RelativeToolTip": "AuthAPI\\Dto\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -294,11 +751,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 42,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "AuthAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Properties\\launchSettings.json",
               "RelativeToolTip": "AuthAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -306,11 +763,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 43,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "AuthAPI\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\appsettings.Development.json",
               "RelativeToolTip": "AuthAPI\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -318,27 +775,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 44,
               "Title": "20250730013817_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Migrations\\20250730013817_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250730013817_InitialCreate.cs",
               "RelativeDocumentMoniker": "AuthAPI\\Migrations\\20250730013817_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Migrations\\20250730013817_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\ProyectoFinal\\AuthAPI\\Migrations\\20250730013817_InitialCreate.cs",
               "RelativeToolTip": "AuthAPI\\Migrations\\20250730013817_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-30T01:38:18.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "AuthAPI\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "AuthAPI\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T01:23:40.252Z"
             }
           ]
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\AuthAPI.csproj": {}
+    "C:\\Users\\ianaq\\Source\\Repos\\ProyectoFinal\\AuthAPI\\AuthAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\AuthAPI.csproj": {
+    "C:\\Users\\ianaq\\Source\\Repos\\ProyectoFinal\\AuthAPI\\AuthAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\AuthAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ianaq\\Source\\Repos\\ProyectoFinal\\AuthAPI\\AuthAPI.csproj",
         "projectName": "AuthAPI",
-        "projectPath": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\AuthAPI.csproj",
+        "projectPath": "C:\\Users\\ianaq\\Source\\Repos\\ProyectoFinal\\AuthAPI\\AuthAPI.csproj",
         "packagesPath": "C:\\Users\\ianaq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ianaq\\source\\repos\\AuthAPI\\AuthAPI\\obj\\",
+        "outputPath": "C:\\Users\\ianaq\\Source\\Repos\\ProyectoFinal\\AuthAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

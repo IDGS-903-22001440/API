@@ -1,0 +1,6 @@
+wwwroot\imagenes\cables.png
+wwwroot\imagenes\dht11.png
+wwwroot\imagenes\esp32.png
+wwwroot\imagenes\presion.png
+wwwroot\imagenes\resistencia.png
+wwwroot\imagenes\sonido.png
